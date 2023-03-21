@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ilyeshr
-- 👀 I’m interested in $$$
-- 🌱 I’m currently learning javascript and hes/her libraries
+- 🌱 I’m currently learning javascript and its libraries
 - 📫 How to reach me ilyesharrache22@gmail.com
 
 <!---
